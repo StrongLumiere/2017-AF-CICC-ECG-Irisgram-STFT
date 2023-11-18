@@ -1,4 +1,4 @@
-# 2017-AF-CICC-ECG-Irisgram-STFT-
+# 2017-AF-CICC-ECG-Irisgram-STFT
 
 This code is a simple research log for my ecg project
 
